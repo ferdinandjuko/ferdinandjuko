@@ -1,1 +1,1 @@
-hello world !
+~ About the ferdinandjuko project ~
