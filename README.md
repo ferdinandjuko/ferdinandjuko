@@ -125,9 +125,17 @@ I prefer understanding the **domain first**, then choosing the architecture and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ferdinandjuko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Ferdinand's GitHub stats" />
+<img
+  height="165"
+  src="./profile/stats.svg"
+  alt="Ferdinand Juko GitHub stats"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinandjuko&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+<img
+  height="165"
+  src="./profile/top-langs.svg"
+  alt="Ferdinand Juko most used languages"
+/>
 
 <br><br>
 
